@@ -1,4 +1,4 @@
-# FSD_Exp6: JWT Authentication & Role-Based Authorization (RBAC)
+# FSD : Exp6-JWT Authentication & Role-Based Authorization (RBAC)
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green)
 ![Express.js](https://img.shields.io/badge/Express.js-v4.19-blue)
